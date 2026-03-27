@@ -2,8 +2,8 @@
 name = "deadcode"
 version = "0.1.0"
 edition = "2021"
-authors = ["DeadCode Team"]
-description = "DeadCode - High-level systems programming language for CursedOS"
+authors = ["Dead Society"]
+description = "Dead code launguage"
 
 [[bin]]
 name = "deadcode"
